@@ -2,5 +2,4 @@
 All Main Languages -> Megu  
 
 ## Development Repos
-- **[Megu Programing Language (deno)](https://github.com/ProjectMegu/Megu)**
-- **[Megu Reference](https://github.com/ProjectMegu/.github)** ([GitBook](https://the-megu-project.gitbook.io/main/))
+All Repository are private now. I'm sorry.
